@@ -1,4 +1,4 @@
-## API VipCommerce
+## Laravel + VUE
 
 Aplicação em Laravel + Vue 
 Consiste anotações de tarefas (Todo List)
